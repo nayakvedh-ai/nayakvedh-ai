@@ -19,6 +19,7 @@ A multilingual, voice-enabled agricultural question-answering system designed to
 - Research documented under Jira task **KV-002**
 
 🔗 [View KrishiVaani-AI](https://github.com/shan2302/Krishivaani-AI)
+🔗 [View Cab Booking and Revenue Tracker]()
 
 ---
 
